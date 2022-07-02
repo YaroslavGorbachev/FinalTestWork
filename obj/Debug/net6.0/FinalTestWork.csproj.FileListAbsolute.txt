@@ -1,0 +1,15 @@
+E:\123\FinalTestWork\FinalTestWork\bin\Debug\net6.0\FinalTestWork.exe
+E:\123\FinalTestWork\FinalTestWork\bin\Debug\net6.0\FinalTestWork.deps.json
+E:\123\FinalTestWork\FinalTestWork\bin\Debug\net6.0\FinalTestWork.runtimeconfig.json
+E:\123\FinalTestWork\FinalTestWork\bin\Debug\net6.0\FinalTestWork.dll
+E:\123\FinalTestWork\FinalTestWork\bin\Debug\net6.0\FinalTestWork.pdb
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\FinalTestWork.csproj.AssemblyReference.cache
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\FinalTestWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\FinalTestWork.AssemblyInfoInputs.cache
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\FinalTestWork.AssemblyInfo.cs
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\FinalTestWork.csproj.CoreCompileInputs.cache
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\FinalTestWork.dll
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\refint\FinalTestWork.dll
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\FinalTestWork.pdb
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\FinalTestWork.genruntimeconfig.cache
+E:\123\FinalTestWork\FinalTestWork\obj\Debug\net6.0\ref\FinalTestWork.dll
